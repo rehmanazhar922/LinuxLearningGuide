@@ -3,7 +3,7 @@ Guide for begainers
 
 # Explanation Video (Urdu/Hindi)
 
-- https://youtu.be/pOmd8xV1Pck
+- https://youtu.be/PaAhcQC9xMU
 
 
 # where to learn linux for absolute beginners
